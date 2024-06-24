@@ -1,0 +1,31 @@
+body{
+    background: blueviolet;
+}
+h2{
+    padding-top: 20px;
+    color: white;
+    margin-top: 30px;
+}
+form{
+    color: aliceblue;
+    margin: 10px;
+}
+input[type="text"]{
+    margin-bottom: 30px;
+    width: 250px;
+}
+input[type="password"]{
+    margin-bottom: 30px;
+    width: 250px;
+}
+input[type="submit"]{
+    width: 210px;
+}
+.container{
+    background: rgba(0, 0, 0, 0.515);
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+}
